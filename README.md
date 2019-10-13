@@ -2,4 +2,4 @@
 Coming soon.
 
 Home Page:
-[link text itself]: http://tikiman-go.com
+http://tikiman-go.com
